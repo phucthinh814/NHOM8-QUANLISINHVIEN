@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (doantinhoc.vcxproj, NHOM10 QUANLYSV.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  doantinhoc.cpp
+  KHOA.cpp
+  SINHVIEN.cpp
+  Generating Code...
+D:\coccocdowload\QUANLYSINHVIEN-main\QUANLYSINHVIEN SOURCE CODE + DATABASE\doantinhoc\KHOA.cpp(201): warning C4715: 'maKhoaKhongTrung': not all control paths return a value
+  LINK : D:\coccocdowload\QUANLYSINHVIEN-main\QUANLYSINHVIEN SOURCE CODE + DATABASE\x64\Debug\NHOM8 QUANLYSV.exe not found or not built by the last incremental link; performing full link
+  doantinhoc.vcxproj -> D:\coccocdowload\QUANLYSINHVIEN-main\QUANLYSINHVIEN SOURCE CODE + DATABASE\x64\Debug\NHOM8 QUANLYSV.exe
